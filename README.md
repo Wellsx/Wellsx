@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wellsx
 - 👀 I’m interested in Quality Assurance testing
-- 🌱 I’m currently learning Cypress/JavaScript
+- 🌱 Working with Cypress/JS, Selenium WebDriver/Java
 - 📫 stefanveleusic@hotmail.com
 
 <!---
